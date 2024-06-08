@@ -1,3 +1,17 @@
 baseURL: https://example.org/
 languageCode: en-us
-title: My New Hugo Site
+title: Jelili O. Adesina
+theme: ["PaperMod"]
+params:
+  homeInfoParams:
+    Title: Hi!
+    Content: "I am a dedicated full-stack software engineer with years of experience in software development. My expertise includes Java, Kotlin, Python, JavaScript, React and React Native, and I am passionate about creating innovative and efficient software solutions."
+  socialIcons: # optional
+    - name: github
+      url: "https://github.com/jelilio"
+    - name: "linkedin"
+      url: "https://linkedin.com/in/jeliliadesina"
+    - name: "x"
+      url: "https://x.com/jelilio_"
+    - name: "unsplash"
+      url: "https://unsplash.com/@jeliliadesina"
