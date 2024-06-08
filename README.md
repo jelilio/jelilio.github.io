@@ -1,9 +1,9 @@
 <h1 align="center">
-  Hello 👋, I'm Jelili
+  Hello 👋! I'm Jelili
 </h1>
 
 <p align="center">
-I am a dedicated full-stack software engineer with years of experience in software development. My expertise includes Java, Kotlin, Python, JavaScript, React and React Native, and I am passionate about creating innovative and efficient software solutions.
+I am a dedicated full-stack software engineer with years of experience in software development. I currently works as a freelancer, and I am passionate about creating innovative and efficient software solutions.
 </p>
 
 <br/>

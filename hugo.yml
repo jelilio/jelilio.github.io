@@ -4,9 +4,9 @@ title: Jelili O. Adesina
 theme: ["PaperMod"]
 params:
   homeInfoParams:
-    Title: Hi!
-    Content: "I am a dedicated full-stack software engineer with years of experience in software development. My expertise includes Java, Kotlin, Python, JavaScript, React and React Native, and I am passionate about creating innovative and efficient software solutions."
-  socialIcons: # optional
+    Title: "Hi! I'm Jelili"
+    Content: "I am a dedicated full-stack software engineer with years of experience in software development.\nI currently works as a freelancer, and I am passionate about creating innovative and efficient software solutions."
+  socialIcons:
     - name: github
       url: "https://github.com/jelilio"
     - name: "linkedin"
