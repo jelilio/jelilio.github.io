@@ -3,8 +3,10 @@
 </h1>
 
 <p align="center">
-I am a dedicated full-stack software engineer with years of experience in software development. My expertise includes Java, Kotlin, Python, JavaScript, React and React Native, and I am passionate about creating innovative and efficient software solutions."
+I am a dedicated full-stack software engineer with years of experience in software development. My expertise includes Java, Kotlin, Python, JavaScript, React and React Native, and I am passionate about creating innovative and efficient software solutions.
 </p>
+
+<hr/>
 
 <p align="center">
   <a href="mailto:jelilio.adesina@gmail.com">
