@@ -5,8 +5,8 @@ theme: ["PaperMod"]
 
 params:
   homeInfoParams:
-    Title: "Hi! I'm Jelili"
-    Content: "I am a dedicated full-stack software engineer with years of experience in software development.\nI currently works as a freelancer, and I am passionate about creating innovative and efficient software solutions."
+    Title: "Hello! I'm Jelili"
+    Content: "I am a full-stack software engineer with years of experience in software development.\nI currently works as a freelancer, and I am passionate about creating innovative and efficient software solutions."
   socialIcons:
     - name: github
       url: "https://github.com/jelilio"
@@ -21,15 +21,19 @@ params:
 
 menu:
   main:
-    - identifier: categories
-      name: Categories
-      url: /categories/
-      weight: 10
-    - identifier: tags
-      name: Tags
-      url: /tagos/
-      weight: 20
-    - identifier: archives
-      name: Archives
-      url: /archives/
-      weight: 30
+    - identifier: about
+      name: About
+      url: /about
+      weight: 5
+    # - identifier: categories
+    #   name: Categories
+    #   url: /categories
+    #   weight: 10
+    # - identifier: tags
+    #   name: Tags
+    #   url: /tags
+    #   weight: 20
+    # - identifier: archives
+    #   name: Archives
+    #   url: /archives
+    #   weight: 30
