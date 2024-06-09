@@ -2,10 +2,11 @@ baseURL: "https://jelilio.github.io/"
 languageCode: en-us
 title: Jelili O. Adesina
 theme: ["PaperMod"]
+
 params:
   homeInfoParams:
-    Title: "Hi! I'm Jelili"
-    Content: "I am a dedicated full-stack software engineer with years of experience in software development.\nI currently works as a freelancer, and I am passionate about creating innovative and efficient software solutions."
+    Title: "Hello! I'm Jelili"
+    Content: "I am a full-stack software engineer with years of experience in software development.\nI currently works as a freelancer, and I am passionate about creating innovative and efficient software solutions."
   socialIcons:
     - name: github
       url: "https://github.com/jelilio"
@@ -15,3 +16,24 @@ params:
       url: "https://x.com/jelilio_"
     - name: "unsplash"
       url: "https://unsplash.com/@jeliliadesina"
+  assets:
+    favicon: icon/favicon.ico
+
+menu:
+  main:
+    - identifier: about
+      name: About
+      url: /about
+      weight: 5
+    # - identifier: categories
+    #   name: Categories
+    #   url: /categories
+    #   weight: 10
+    # - identifier: tags
+    #   name: Tags
+    #   url: /tags
+    #   weight: 20
+    # - identifier: archives
+    #   name: Archives
+    #   url: /archives
+    #   weight: 30
