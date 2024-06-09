@@ -2,6 +2,7 @@ baseURL: "https://jelilio.github.io/"
 languageCode: en-us
 title: Jelili O. Adesina
 theme: ["PaperMod"]
+
 params:
   homeInfoParams:
     Title: "Hi! I'm Jelili"
@@ -15,3 +16,20 @@ params:
       url: "https://x.com/jelilio_"
     - name: "unsplash"
       url: "https://unsplash.com/@jeliliadesina"
+  assets:
+    favicon: icon/favicon.ico
+
+menu:
+  main:
+    - identifier: categories
+      name: Categories
+      url: /categories/
+      weight: 10
+    - identifier: tags
+      name: Tags
+      url: /tagos/
+      weight: 20
+    - identifier: archives
+      name: Archives
+      url: /archives/
+      weight: 30
