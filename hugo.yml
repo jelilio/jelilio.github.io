@@ -1,6 +1,7 @@
 baseURL: "https://jelilio.github.io/"
 languageCode: en-us
 title: Jelili O. Adesina
+paginate: 5
 theme: ["PaperMod"]
 
 params:
@@ -25,6 +26,10 @@ menu:
       name: About
       url: /about
       weight: 5
+    - identifier: projects
+      name: Projects
+      url: /projects
+      weight: 10
     # - identifier: categories
     #   name: Categories
     #   url: /categories

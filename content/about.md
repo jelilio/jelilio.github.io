@@ -4,7 +4,7 @@ url: "/about"
 draft: false
 ---
 
-Jelili Adesina is a dedicated full-stack software engineer with over eight years of experience in software development. Currently, he works as a Freelancer on Upwork, specialising in developing scalable and efficient software solutions for clients across various industries.
+Jelili is a dedicated full-stack software engineer with over eight years of experience in software development. Currently, he works as a Freelancer, specialising in developing scalable and efficient software solutions for clients across various industries.
 
 Before being a Freelancer, Jelili worked at ActivEdge Technologies, where he used his backend development and database management skills to lead a team of backend engineers in developing world-class solutions.
 
