@@ -20,6 +20,20 @@ params:
   assets:
     favicon: icon/favicon.ico
 
+  ShowShareButtons: true
+  ShowReadingTime: true
+  # disableSpecial1stPost: true
+  displayFullLangName: true
+  ShowPostNavLinks: true
+  ShowBreadCrumbs: true
+  ShowCodeCopyButtons: true
+  ShowRssButtonInSectionTermList: true
+  ShowAllPagesInArchive: true
+  ShowPageNums: true
+  ShowToc: true
+  comments: true
+  images: ["images/papermod-cover.png"]
+
 menu:
   main:
     - identifier: about
@@ -42,3 +56,7 @@ menu:
     #   name: Archives
     #   url: /archives
     #   weight: 30
+
+services:
+  disqus:
+    shortname: jelilio
