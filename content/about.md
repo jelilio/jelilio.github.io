@@ -2,6 +2,8 @@
 title: "About"
 url: "/about"
 draft: false
+showReadingTime: false
+showShareButtons: false
 ---
 
 Jelili is a dedicated full-stack software engineer with over eight years of experience in software development. Currently, he works as a Freelancer, specialising in developing scalable and efficient software solutions for clients across various industries.

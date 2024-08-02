@@ -2,6 +2,8 @@
 title: "Projects"
 url: "/projects"
 draft: false
+showReadingTime: false
+showShareButtons: false
 ---
 
 - [Smart Home Security System with Raspberry Pi and OpenCV](https://github.com/jelilio/home_security)
