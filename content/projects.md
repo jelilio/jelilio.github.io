@@ -6,7 +6,7 @@ showReadingTime: false
 showShareButtons: false
 ---
 
-- [A Simple Blog with Express and MongoDB](https://github.com/jelilio/zenblog)
+- [ZenBlog: A Simple Blog with Express and MongoDB](https://github.com/jelilio/zenblog)
 - [A Spring Application using Jenkins for CI/CD](https://github.com/jelilio/spring-jenkins-demo)
 - [JWT Authentication and Authorization with OTP using Spring WebFlux](https://github.com/jelilio/spring-webflux-jwt-auth-otp)
 - [JWT Authentication and Authorization with OTP using Quarkus](https://github.com/jelilio/quarkus-jwt-auth-otp)
