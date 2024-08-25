@@ -1,7 +1,7 @@
 ---
 title: "About"
 url: "/about"
-draft: false
+draft: true
 showReadingTime: false
 showShareButtons: false
 ---
