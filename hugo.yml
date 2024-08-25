@@ -36,14 +36,14 @@ params:
 
 menu:
   main:
-    - identifier: about
-      name: About
-      url: /about
-      weight: 5
+    # - identifier: about
+    #   name: About
+    #   url: /about
+    #   weight: 5
     - identifier: projects
       name: Projects
       url: /projects
-      weight: 10
+      weight: 5
     # - identifier: categories
     #   name: Categories
     #   url: /categories
