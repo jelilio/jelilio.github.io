@@ -44,48 +44,24 @@
     font-size: .8em;
 }
 @media screen and (min-width: 1350px) {
-    
-     .toc.side {
-        position: sticky;
-        top: 100px;
-        --toc-side: calc(100vw / 50);
-        width: calc((100vw - var(--main-width) - 2 * var(--gap)) / 2 - 2 * var(--toc-side));
-        padding: 14px;
-        /* border: solid 1px lightgray; */
-        font-size: 14px;
-        z-index: 1;
-    }
 
-    /* .toc.side {
+    .toc.side {
         position: fixed;
         top: 118px;
         z-index: 1;
         max-height: calc(100% - 150px);
         overflow: auto;
-    } */
+    }
     .toc.side::-webkit-scrollbar-thumb {
         border: 5px solid var(--code-bg);
     }
-    /* .toc.side.left {
+    .toc.side.left {
         left: 15px;
         width: 250px;
     }
     .toc.side.right {
         right: 15px;
         width: 265px;
-    } */
-
-    .toc.side.left {
-        width: 250px;
-        float: left;
-        margin-left: -1000px; /* overruled by left */
-        left: var(--toc-side);
-    }
-    .toc.side.right {
-        width: 265px;
-        float: right;
-        margin-right: -1000px; /* overruled by right */
-        right: var(--toc-side);
     }
 }
 
