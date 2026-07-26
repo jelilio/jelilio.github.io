@@ -5,6 +5,8 @@ paginate: 5
 theme: ["PaperMod"]
 
 params:
+  TocSide: 'right'
+  TocOpen: true
   homeInfoParams:
     Title: "Hello! I'm Jelili"
     Content: "I am a full-stack software engineer with years of years of expertise in developing scalable web and mobile application.\nI am passionate about creating innovative and efficient software solutions."
