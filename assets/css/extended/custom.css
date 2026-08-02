@@ -48,9 +48,8 @@
     .toc.side {
         position: fixed;
         top: 118px;
-        z-index: 1;
+        z-index: 0;
         max-height: calc(100% - 150px);
-        overflow: auto;
     }
     .toc.side::-webkit-scrollbar-thumb {
         border: 5px solid var(--code-bg);
